@@ -62,7 +62,7 @@ To view security features or manage login details, navigate to the **Profile** t
 ---
 
 ## 📂 Project Structure
-
+```text
 vouchercash/
 ├── index.html           # Main entry point & Responsive UI Layout
 ├── index.js             # Core Logic: State Management, Auth & Navigation
