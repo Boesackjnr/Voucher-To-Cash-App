@@ -1,11 +1,9 @@
-Voucher To Cash App. is an app that allows users/consumers to Liquidate SA Voucher into Cash including Airtime.
-
 # 💸 Voucher-To-Cash-App: Instant Liquidity
 
 **Premium Voucher-To-Cash-App Prototype**  
 *Convert digital assets into bankable cash, instantly.*
 
-Voucher-To-Cash-App is a high-fidelity technical demonstration of a modern South African fintech solution. It bridges the gap between digital pre-paid assets (like 1Voucher, OTT, and cellular airtime) and traditional banking systems.
+Voucher-To-Cash-App is a fidelity technical demonstration of a modern South African fintech solution. It bridges the gap between digital pre-paid assets (like 1Voucher, OTT, and cellular airtime) and traditional banking systems.
 
 ---
 
