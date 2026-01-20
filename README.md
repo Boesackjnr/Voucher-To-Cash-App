@@ -1,4 +1,4 @@
-# 💸 Voucher-To-Cash-App: Instant Liquidity
+Voucher-To-Cash-App: Instant Liquidity
 
 **Premium Voucher-To-Cash-App Prototype**  
 *Convert digital assets into bankable cash, instantly.*
